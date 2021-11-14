@@ -1,7 +1,6 @@
 from behave import given, when, then
 from features.forms.home_page import HomePage
 
-
 obj_home_page = HomePage()
 
 
